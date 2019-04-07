@@ -506,8 +506,8 @@ public class MediaControl extends VBox {
           
           //ADDITIONAL FUNCTIONALITY
           
-          gridBox.add(btnNudgeBack,6,1,1,1);
-          gridBox.add(btnNudgeForward,7,1,1,1);
+          gridBox.add(btnNudgeBack,7,1,1,1);
+          gridBox.add(btnNudgeForward,6,1,1,1);
           gridBox.add(btnAllCaps,10,1,1,1);
           gridBox.add(btnNudgeSelectedStartBack,8,1,1,1);
           gridBox.add(btnNudgeSelectedStartForward,9,1,1,1);
